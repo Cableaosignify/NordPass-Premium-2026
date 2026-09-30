@@ -1,0 +1,27 @@
+{
+  "repo": "nordpass-premium-2026",
+  "product": "NordPass Premium 2026",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "password-manager",
+  "topics": [
+    "nordpass-premium",
+    "nordpass-desktop",
+    "nordpass-windows",
+    "nordpass-2026",
+    "password-manager",
+    "credential-vault",
+    "secure-login",
+    "encryption-tools",
+    "privacy-desktop",
+    "windows-security",
+    "two-factor-auth",
+    "password-generator",
+    "identity-protection",
+    "secure-notes"
+  ],
+  "site": "zentool.art"
+}
